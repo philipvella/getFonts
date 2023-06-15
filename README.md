@@ -13,13 +13,13 @@ To install and run the `fetchfonts` project, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone [>](https://github.com/philipvella/getFonts.git)
+   git clone https://github.com/philipvella/getFonts.git
    ```
 
 2. Change into the project directory:
 
    ```shell
-   cd getfonts
+   cd getFonts
    ```
 
 3. Install the dependencies:
@@ -40,13 +40,13 @@ The server will start and listen on the default port (3000).
 
 ## Configuration
 
-The `fetchfonts` project uses the following configuration file:
+The `getFonts` project uses the following configuration file:
 
 **package.json**
 
 ```json
 {
-  "name": "fetchfonts",
+  "name": "getFonts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -64,13 +64,13 @@ The `fetchfonts` project uses the following configuration file:
 
 ## Routes
 
-The following routes are available in the `fetchfonts` project:
+The following routes are available in the `getFonts` project:
 
 - **GET /load-font**: Fetches and serves the font file.
 
 ## Dependencies
 
-The `fetchfonts` project relies on the following dependencies:
+The `getFonts` project relies on the following dependencies:
 
 - [Express](https://www.npmjs.com/package/express): Fast, unopinionated, minimalist web framework for Node.js.
 - [Axios](https://www.npmjs.com/package/axios): Promise-based HTTP client for the browser and Node.js.
