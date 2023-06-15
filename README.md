@@ -1,12 +1,12 @@
 # Get fonts
 
-## Description
+## Description 📝
 
 `getFonts` is a Node.js project that demonstrates how to fetch fonts using the Express framework and the Axios library. It provides a basic server that serves font files in response to specific routes.
 
 ![localhost result](proxy_fonts.png)
 
-## Installation
+## Installation 🚀
 
 To install and run the `getFonts` project, follow these steps:
 
@@ -28,7 +28,7 @@ To install and run the `getFonts` project, follow these steps:
    npm install
    ```
 
-## Usage
+## Usage 🎯
 
 To start the server and fetch fonts, use the following command:
 
@@ -38,7 +38,7 @@ npm start
 
 The server will start and listen on the default port (3000).
 
-## Configuration
+## Configuration ⚙️
 
 The `getFonts` project uses the following configuration file:
 
@@ -62,22 +62,21 @@ The `getFonts` project uses the following configuration file:
 }
 ```
 
-## Routes
+## Routes 🛣️
 
 The following routes are available in the `getFonts` project:
 
 - **GET /load-font**: Fetches and serves the font file.
 
-## Dependencies
+## Dependencies 📦
 
 The `getFonts` project relies on the following dependencies:
 
 - [Express](https://www.npmjs.com/package/express): Fast, unopinionated, minimalist web framework for Node.js.
 - [Axios](https://www.npmjs.com/package/axios): Promise-based HTTP client for the browser and Node.js.
 
-## License
+## License 📄
 
 This project is licensed under the ISC License. See the [LICENSE](https://opensource.org/license/isc-license-txt/) file for more information.
 
 ---
-
