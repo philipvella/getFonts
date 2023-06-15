@@ -6,6 +6,8 @@ Certainly! Here's a `README.md` file for the `fetchfonts` project:
 
 `fetchfonts` is a Node.js project that demonstrates how to fetch fonts using the Express framework and the Axios library. It provides a basic server that serves font files in response to specific routes.
 
+![localhost result](proxy_fonts.png)
+
 ## Installation
 
 To install and run the `fetchfonts` project, follow these steps:
