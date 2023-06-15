@@ -53,7 +53,7 @@ The `getFonts` project uses the following configuration file:
   "scripts": {
     "start": "node server.js"
   },
-  "author": "",
+  "author": "info@vellaphilip.com",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
