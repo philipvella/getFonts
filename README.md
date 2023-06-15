@@ -49,5 +49,5 @@ To fetch the font, follow these steps:
 
 ## License
 
-This code is released under the [MIT License](LICENSE).
+This code is released under the [MIT License](https://opensource.org/license/mit/).
 
