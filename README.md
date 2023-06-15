@@ -81,4 +81,3 @@ This project is licensed under the ISC License. See the [LICENSE](https://openso
 
 ---
 
-Feel free to customize this `README.md` file with additional information specific to your project.
