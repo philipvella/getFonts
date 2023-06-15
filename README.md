@@ -13,13 +13,13 @@ To install and run the `fetchfonts` project, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone [>](https://github.com/philipvella/getFonts.git)
    ```
 
 2. Change into the project directory:
 
    ```shell
-   cd fetchfonts
+   cd getfonts
    ```
 
 3. Install the dependencies:
