@@ -51,6 +51,3 @@ To fetch the font, follow these steps:
 
 This code is released under the [MIT License](LICENSE).
 
----
-
-Feel free to modify the README file according to your project's requirements and add any additional information you deem necessary.
