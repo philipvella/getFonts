@@ -1,4 +1,4 @@
-# fetchfonts
+# Get fonts
 
 ## Description
 
